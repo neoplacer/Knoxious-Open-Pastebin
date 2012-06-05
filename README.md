@@ -97,7 +97,7 @@ Windows Server 2008 R2
 Windows (server) 8
 
  * IIS 8.0 + FastCGI
- * Apach2
+ * Apache2
 
 	
 ### Pending Investigation
