@@ -93,6 +93,11 @@ Windows Server 2008 R2
 
  * IIS 7.5 + FastCGI
  * Apache2
+ 
+Windows (server) 8
+
+ * IIS 8.0 + FastCGI
+ * Apach2
 
 	
 ### Pending Investigation
