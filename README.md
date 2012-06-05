@@ -90,6 +90,10 @@ Windows Server 2008 R2
  * IIS 7.5 + FastCGI
  * Apache2
 
+Windows (server) 8
+
+ * IIS 8.0 + FastCGI
+ * Apache2
 	
 ### Pending Investigation
 If it works on Linux it will likely run on the Windows/Mac/FreeBSD release.
