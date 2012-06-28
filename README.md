@@ -144,11 +144,16 @@ TODO
 
  * Code Tidy, Optimise, remove bloat.
  * Control ID format (Numerical, Alphanumerical, "Random" and Hex)
- * Password Protected and Encrypted Pastes (CURRENTLY IN TESTING BRANCH)
+ * Password Protected and Encrypted Pastes (CURRENTLY IN TESTING BRANCH, NEEDS FIX)
+ * Encryption between browser and server for Encrypted Pastes
  * List Author Pastes, details of paste. (CURRENTLY IN UNSTABLE BRANCH, UNFORMATTED)
  * Image Thumbnails (Using either GD or ImageMagick)
  * Languages
- * Remove Video stuff...
+ * Download link next to Raw, extension when download (Thanks Schwarzenbart and Zac)
+ * DIFF between parent and child.
+ * Fix HTML5 Compatability.
+ * Using CouchDB (Maybe?)
+ * Remove Video stuff... - Awkward to maintain.
  * Change the way that Syntax Highlighting stuff is stored (Save disk space)
  * Temporary user paste deletion rights
  * IP Bans
